@@ -5,7 +5,7 @@ CS & AI Student
 Eager to learn and build cool stuff
 
 - Currently working on **My MSc thesis, developing CLICSS. Coming soon.**
-- Exploring **Inductive Logic Programming** in **Software Reliability**
+- Exploring **Inductive Logic Programming** for **Software Reliability**
 
 ## Stack
 
